@@ -1,43 +1,7 @@
 ---
 title: Home
 slug: /
-sections:
-  - posts: []
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
+sections: []
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
