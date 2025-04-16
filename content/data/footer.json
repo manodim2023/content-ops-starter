@@ -4,20 +4,6 @@
         "type": "ImageBlock"
     },
     "text": "Blog Casal Liberal\n",
-    "secondaryLinks": {
-        "title": "",
-        "links": [
-            {
-                "label": "Blog",
-                "url": "/blog",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
     "socialLinks": [
         {
             "altText": "GitHub link",
